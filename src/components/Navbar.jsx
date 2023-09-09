@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <StyledNavbar>
     <div className="nav">
-      <span>Redux Store</span>
+      <span>RTK Store</span>
       <div className="navbar">
         <StyledLink to="/">Home</StyledLink>
         <StyledLink to="/cart">Cart</StyledLink>

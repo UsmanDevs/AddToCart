@@ -71,3 +71,4 @@ const StyledProductCard = styled.div`
 `;
 
 export default Products;
+
